@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Builder",""],["Rclass",""],["Registry","A registry for Module specs that uses types as keys."],["Spec",""]]});

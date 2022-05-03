@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["rubylib","A Ruby source loader that resolves sources relative to paths given in a `RUBYLIB` environment variable."]],"struct":[["Rubylib","A Ruby source code loader that searches in paths given by the `RUBYLIB` environment variable."]]});

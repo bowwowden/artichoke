@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["State",""]],"mod":[["arena","Garbage collection arenas for native code."]],"trait":[["MrbGarbageCollection","Garbage collection primitives for an mruby interpreter."]]});

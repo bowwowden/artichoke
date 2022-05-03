@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["format_unicode_debug_into","Write a UTF-8 debug representation of a byte slice into the given writer."]],"struct":[["WriteError","Error type for [`format_unicode_debug_into`]."]]});

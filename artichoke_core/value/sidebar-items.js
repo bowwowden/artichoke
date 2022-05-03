@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["Value","A boxed Ruby value owned by the interpreter."]]});

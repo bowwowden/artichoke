@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["Regexp","Track the state of `Regexp` special global variables and global interpreter state."]]});

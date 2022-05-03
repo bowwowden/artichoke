@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Coercion",""],["Outcome",""]],"fn":[["coerce","If `y` is the same type as `x`, returns an array `[y, x]`. Otherwise, returns an array with both `y` and `x` represented as `Float` objects."]],"mod":[["mruby",""]],"struct":[["Numeric",""]]});

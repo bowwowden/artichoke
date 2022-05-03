@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["File","Rust extension hook that can be required."]]});
