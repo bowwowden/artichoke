@@ -1,0 +1,5 @@
+project: artichoke
+target: eval
+
+cmds:
+ - cmd: /eval
